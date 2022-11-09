@@ -1,0 +1,1 @@
+fx_version('cerulean') games{'gta5'} dependency {'coins_shop'} server_scripts{'snaily_server.lua'} client_scripts{'snaily_client.lua'}
